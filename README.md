@@ -1,2 +1,2 @@
 
-Daily practice of c++ ds algo
+Daily practice of C++ Data Structures and Algorithms.
